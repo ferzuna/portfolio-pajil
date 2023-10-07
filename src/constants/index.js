@@ -156,7 +156,7 @@ import {
     {
       name: "Radya Company Profile",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Radya Digital company profile that is used to provide information about Radya Digital. This website page contains home, portfolio, blog, career, and contact to support radya digital customer's needs .",
       tags: [
         {
           name: "laravel",
