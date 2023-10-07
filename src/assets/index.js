@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import open from "./open.svg";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -14,7 +15,7 @@ import git from "./tech/git.png";
 import html from "./tech/html.png";
 import javascript from "./tech/javascript.png";
 import mysql from "./tech/mysql.png";
-import nodejs from "./tech/nodejs.png";
+import vue from "./tech/vue.png";
 import reactjs from "./tech/reactjs.png";
 import laravel from "./tech/laravel.png";
 import tailwind from "./tech/tailwind.png";
@@ -23,9 +24,9 @@ import php from "./tech/php.svg";
 import radya from "./company/radya.svg";
 import undip from "./company/undip.png"
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import radyaweb from "./radyaweb.png";
+import sikp from "./sikp.png";
+import saitama from "./saitama.jpeg";
 
 export {
   logo,
@@ -34,6 +35,7 @@ export {
   mobile,
   web,
   github,
+  open,
   menu,
   close,
   css,
@@ -43,14 +45,14 @@ export {
   html,
   javascript,
   mysql,
-  nodejs,
+  vue,
   reactjs,
   laravel,
   tailwind,
   php,
   radya,
   undip,
-  carrent,
-  jobit,
-  tripguide,
+  radyaweb,
+  sikp,
+  saitama,
 };

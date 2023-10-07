@@ -7,16 +7,16 @@ import {
     reactjs,
     laravel,
     tailwind,
-    nodejs,
+    vue,
     mysql,
     git,
     figma,
     gsap,
     radya,
     undip,
-    carrent,
-    jobit,
-    tripguide,
+    radyaweb,
+    sikp,
+    saitama,
     php,
   } from "../assets";
   
@@ -64,7 +64,7 @@ import {
       icon: reactjs,
     },
     {
-      name: "Vue JS",
+      name: "Laravel",
       icon: laravel,
     },
     {
@@ -72,8 +72,8 @@ import {
       icon: tailwind,
     },
     {
-      name: "Node JS",
-      icon: nodejs,
+      name: "Vue JS",
+      icon: vue,
     },
     {
       name: "MySQL",
@@ -154,58 +154,58 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Radya Company Profile",
       description:
         "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
-          name: "react",
-          color: "blue-text-gradient",
+          name: "laravel",
+          color: "orange-text-gradient",
         },
         {
           name: "mysql",
-          color: "green-text-gradient",
-        },
-        {
-          name: "tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: carrent,
-      source_code_link: "https://github.com/",
-    },
-    {
-      name: "Job IT",
-      description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-      tags: [
-        {
-          name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
-          color: "green-text-gradient",
-        },
-        {
-          name: "scss",
+          name: "bootstrap",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
-      source_code_link: "https://github.com/",
+      image: radyaweb,
+      source_code_link: "https://radyadigital.com/",
     },
     {
-      name: "Trip Guide",
+      name: "SI KP",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A web application that is used as a platform for organizing and recording practical work in computer engineering.",
       tags: [
         {
-          name: "nextjs",
+          name: "laravel",
+          color: "orange-text-gradient",
+        },
+        {
+          name: "mysql",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "bootstrap",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: sikp,
+      source_code_link: "https://si-kp.com/",
+    },
+    {
+      name: "GSAP Scroll",
+      description:
+        "a web page to implement the gsap framework. Gsap is a framework to make websites more interactive and attractive..",
+      tags: [
+        {
+          name: "vue",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "gsap",
           color: "green-text-gradient",
         },
         {
@@ -213,8 +213,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
-      source_code_link: "https://github.com/",
+      image: saitama,
+      source_code_link: "https://transition-saitama.vercel.app/",
     },
   ];
   

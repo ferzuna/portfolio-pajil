@@ -32,7 +32,7 @@ const About = () => {
       I am bachelor degree of computer engineering at Diponegoro University. I am interested in technology and data, could work well as a team and respond quickly. Experienced in web development. Currently, searching for many opportunities to improve skills, knowledge, and experience.
       </motion.p>
       
-      <div className='mt-20 flex flex-wrap gap-10'>
+      <div className='mt-20 flex flex-wrap gap-10 justify-around'>
         {services.map((service, index) => (
           <ServiceCard key={service.title} index = {index} {...service} />
         ))}
