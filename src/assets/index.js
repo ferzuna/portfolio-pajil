@@ -22,7 +22,8 @@ import tailwind from "./tech/tailwind.png";
 import php from "./tech/php.svg";
 
 import radya from "./company/radya.svg";
-import undip from "./company/undip.png"
+import undip from "./company/undip.png";
+import pci from "./company/pci.png";
 
 import radyaweb from "./radyaweb.png";
 import sikp from "./sikp.png";
@@ -55,4 +56,5 @@ export {
   radyaweb,
   sikp,
   saitama,
+  pci
 };
