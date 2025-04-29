@@ -105,12 +105,12 @@ import {
       company_name: "PT PCI Elektronik Internasional",
       icon: pci,
       iconBg: "#E6DEDD",
-      date: "Aug 2023 - Current",
+      date: "Nov 2023 - Current",
       points: [
-        "asdqeqdeqwe for creating the front-end of Computer Engineering’s practical work information system",
-        "Integrate data from database to client-side in practical work information system.",
-        "Deploy the project to public web.",
-        "Perform testing and validation to ensure the system is ready for use.",
+        "Ensure the document is complete for new product.",
+        "Setup BOM from customer package to internal BOM as plant reference.",
+        "Ensure the product is good and suitable with spec.",
+        "Communicate with cross section team about build of new product.",
       ],
     },
     {
